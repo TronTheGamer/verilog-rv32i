@@ -41,17 +41,19 @@ Example:
 
 ```bash
 .
-├── ALU_tb.v
-└── ALU.v
+├── <module_tb>.v
+└── <module>.v
 ```
+> [!NOTE]
+> Here the `<module_tb.v>` and `<module.v>` are the **_testbench_** and _**verilog**_ files respectively for the module
 
 2. Run the following command to compile the verilog files.
 
 ```bash
-iverilog -o <outputfile_name> ALU.v ALU_tb.v
+iverilog -o <outputfile_name> <module>.v <module_tb>.v
 ```
 
-> [!IMPORTANT] Here the `outputfile_name` is the name of the file that you want to generate after compiling the verilog files.
+> [!IMPORTANT] Here the `<outputfile_name>` is the name of the file that you want to generate after compiling the verilog files.
 
 3. Run the compiled file to simulate the design.
 
