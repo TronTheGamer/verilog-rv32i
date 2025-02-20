@@ -10,5 +10,5 @@ The documentation for this project can be found in the `doc` directory. The docu
 
 ## Table of Contents
 
-1. [Introduction](doc/1_Introduction.md)
-2. [Tools](doc/2_Tools.md)
+1. [Introduction](docs/1_Introduction.md)
+2. [Tools](docs/2_Tools.md)
