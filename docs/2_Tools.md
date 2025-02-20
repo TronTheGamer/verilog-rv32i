@@ -12,6 +12,7 @@ This Document describes the tools used in this project and how to install and us
 
 ### Icarus Verilog
 
+> [!NOTE]
 > **Icarus Verilog (iVerilog)** is a free, open-source tool that simulates and synthesizes Verilog hardware designs. It can be used to perform tasks like checking for coding errors, writing compiled design files, and linking modules.
 
 #### Installation
