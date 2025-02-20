@@ -12,7 +12,7 @@ This Document describes the tools used in this project and how to install and us
 
 ### Icarus Verilog
 
-> Icarus Verilog (iVerilog) is a free, open-source tool that simulates and synthesizes Verilog hardware designs. It can be used to perform tasks like checking for coding errors, writing compiled design files, and linking modules.
+> **Icarus Verilog (iVerilog)** is a free, open-source tool that simulates and synthesizes Verilog hardware designs. It can be used to perform tasks like checking for coding errors, writing compiled design files, and linking modules.
 
 #### Installation
 
@@ -70,7 +70,7 @@ vvp <outputfile_name>
 ### GTKWave
 
 > [!NOTE]
-> GTKWave is a VCD waveform viewer based on the GTK library. This viewer support VCD and LXT formats for signal dumps. GTKWAVE is available on github here. Most Linux distributions already include gtkwave prepackaged.
+> **GTKWave** is a VCD waveform viewer based on the GTK library. This viewer support VCD and LXT formats for signal dumps. GTKWAVE is available on github here. Most Linux distributions already include gtkwave prepackaged.
 
 #### Installation
 
