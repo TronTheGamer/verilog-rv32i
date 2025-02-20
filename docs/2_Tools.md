@@ -4,9 +4,9 @@ This Document describes the tools used in this project and how to install and us
 
 ## Table of Contents
 
-* [Verilog Compiler and Tools](#verilog-compiler-and-tools)
-├──- [Icarus Verilog](#icarus-verilog)
-├──- [GTKWave](#gtkwave)
+* [Verilog Compiler and Tools](#verilog-compiler-and-tools) <br>
+├── [Icarus Verilog](#icarus-verilog) <br>
+├── [GTKWave](#gtkwave) <br>
 
 ## Verilog Compiler and Tools
 
