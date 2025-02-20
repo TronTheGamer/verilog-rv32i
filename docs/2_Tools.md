@@ -63,10 +63,12 @@ vvp <outputfile_name>
 
 > [!NOTE]
 > This prints out the output of the simulation to the terminal.
-> [!TIP]
+
+> [!NOTE]
 > You can include `$dumpfile("dump.vcd"); $dumpvars;` in your testbench to generate a waveform data file (`.vcd`).
 > > Which can be viewed using `gtkwave`.
-> > [!NOTE] For further informtion on `gtkwave` visit ![gtkwave](https://gtkwave.sourceforge.io/gtkwave.png) and check out the [gtkwave section](###GTKWave)
+
+> _For further informtion on `gtkwave` visit [gtkwave](https://gtkwave.sourceforge.io/) and check out the [gtkwave section](###GTKWave)_
 
 ---
 
