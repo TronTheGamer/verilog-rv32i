@@ -6,7 +6,7 @@ This project's aim is to provide a simple, clean, and easy to understand RISC-V 
 
 # Documentation
 
-The documentation for this project can be found in the `doc` directory. The documentation includes a detailed explanation of the design, the instruction set, and the implementation details.
+The documentation for this project can be found in the `docs` directory. The documentation includes a detailed explanation of the design, the instruction set, and the implementation details.
 
 ## Table of Contents
 
